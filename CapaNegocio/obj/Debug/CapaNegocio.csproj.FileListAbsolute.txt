@@ -1,0 +1,18 @@
+C:\Users\estudiante\source\repos\SistemaVentas\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\estudiante\source\repos\SistemaVentas\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\estudiante\source\repos\SistemaVentas\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\estudiante\source\repos\SistemaVentas\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\estudiante\source\repos\SistemaVentas\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\estudiante\source\repos\SistemaVentas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\source\repos\SistemaVentas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\estudiante\source\repos\SistemaVentas\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\estudiante\source\repos\SistemaVentas\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\royer\Downloads\CS nCapas SistemaVentas-20240523T191841Z-001\CS nCapas SistemaVentas\SistemaVentas\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\royer\Downloads\CS nCapas SistemaVentas-20240523T191841Z-001\CS nCapas SistemaVentas\SistemaVentas\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\royer\Downloads\CS nCapas SistemaVentas-20240523T191841Z-001\CS nCapas SistemaVentas\SistemaVentas\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\royer\Downloads\CS nCapas SistemaVentas-20240523T191841Z-001\CS nCapas SistemaVentas\SistemaVentas\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\royer\Downloads\CS nCapas SistemaVentas-20240523T191841Z-001\CS nCapas SistemaVentas\SistemaVentas\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\royer\Downloads\CS nCapas SistemaVentas-20240523T191841Z-001\CS nCapas SistemaVentas\SistemaVentas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\royer\Downloads\CS nCapas SistemaVentas-20240523T191841Z-001\CS nCapas SistemaVentas\SistemaVentas\CapaNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+C:\Users\royer\Downloads\CS nCapas SistemaVentas-20240523T191841Z-001\CS nCapas SistemaVentas\SistemaVentas\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\royer\Downloads\CS nCapas SistemaVentas-20240523T191841Z-001\CS nCapas SistemaVentas\SistemaVentas\CapaNegocio\obj\Debug\CapaNegocio.pdb

@@ -1,0 +1,32 @@
+C:\Users\estudiante\source\repos\SistemaVentas\CapaPresentacionWindows\bin\Debug\CapaPresentacionWindows.exe.config
+C:\Users\estudiante\source\repos\SistemaVentas\CapaPresentacionWindows\bin\Debug\CapaPresentacionWindows.exe
+C:\Users\estudiante\source\repos\SistemaVentas\CapaPresentacionWindows\bin\Debug\CapaPresentacionWindows.pdb
+C:\Users\estudiante\source\repos\SistemaVentas\CapaPresentacionWindows\obj\Debug\CapaPresentacionWindows.csprojAssemblyReference.cache
+C:\Users\estudiante\source\repos\SistemaVentas\CapaPresentacionWindows\obj\Debug\CapaPresentacionWindows.Properties.Resources.resources
+C:\Users\estudiante\source\repos\SistemaVentas\CapaPresentacionWindows\obj\Debug\CapaPresentacionWindows.csproj.GenerateResource.cache
+C:\Users\estudiante\source\repos\SistemaVentas\CapaPresentacionWindows\obj\Debug\CapaPresentacionWindows.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\source\repos\SistemaVentas\CapaPresentacionWindows\obj\Debug\CapaPresentacionWindows.exe
+C:\Users\estudiante\source\repos\SistemaVentas\CapaPresentacionWindows\obj\Debug\CapaPresentacionWindows.pdb
+C:\Users\estudiante\source\repos\SistemaVentas\CapaPresentacionWindows\bin\Debug\CapaEntidad.dll
+C:\Users\estudiante\source\repos\SistemaVentas\CapaPresentacionWindows\bin\Debug\CapaNegocio.dll
+C:\Users\estudiante\source\repos\SistemaVentas\CapaPresentacionWindows\bin\Debug\CapaEntidad.pdb
+C:\Users\estudiante\source\repos\SistemaVentas\CapaPresentacionWindows\bin\Debug\CapaNegocio.pdb
+C:\Users\estudiante\source\repos\SistemaVentas\CapaPresentacionWindows\obj\Debug\CapaPresentacionWindows.csproj.CopyComplete
+C:\Users\estudiante\source\repos\SistemaVentas\CapaPresentacionWindows\obj\Debug\CapaPresentacionWindows.fmrPrincipal.resources
+C:\Users\estudiante\source\repos\SistemaVentas\CapaPresentacionWindows\obj\Debug\CapaPresentacionWindows.Mantenimiento.frmCliente.resources
+C:\Users\royer\Downloads\CS nCapas SistemaVentas-20240523T191841Z-001\CS nCapas SistemaVentas\SistemaVentas\CapaPresentacionWindows\bin\Debug\CapaPresentacionWindows.exe.config
+C:\Users\royer\Downloads\CS nCapas SistemaVentas-20240523T191841Z-001\CS nCapas SistemaVentas\SistemaVentas\CapaPresentacionWindows\bin\Debug\CapaPresentacionWindows.exe
+C:\Users\royer\Downloads\CS nCapas SistemaVentas-20240523T191841Z-001\CS nCapas SistemaVentas\SistemaVentas\CapaPresentacionWindows\bin\Debug\CapaPresentacionWindows.pdb
+C:\Users\royer\Downloads\CS nCapas SistemaVentas-20240523T191841Z-001\CS nCapas SistemaVentas\SistemaVentas\CapaPresentacionWindows\bin\Debug\CapaEntidad.dll
+C:\Users\royer\Downloads\CS nCapas SistemaVentas-20240523T191841Z-001\CS nCapas SistemaVentas\SistemaVentas\CapaPresentacionWindows\bin\Debug\CapaNegocio.dll
+C:\Users\royer\Downloads\CS nCapas SistemaVentas-20240523T191841Z-001\CS nCapas SistemaVentas\SistemaVentas\CapaPresentacionWindows\bin\Debug\CapaEntidad.pdb
+C:\Users\royer\Downloads\CS nCapas SistemaVentas-20240523T191841Z-001\CS nCapas SistemaVentas\SistemaVentas\CapaPresentacionWindows\bin\Debug\CapaNegocio.pdb
+C:\Users\royer\Downloads\CS nCapas SistemaVentas-20240523T191841Z-001\CS nCapas SistemaVentas\SistemaVentas\CapaPresentacionWindows\obj\Debug\CapaPresentacionWindows.csproj.AssemblyReference.cache
+C:\Users\royer\Downloads\CS nCapas SistemaVentas-20240523T191841Z-001\CS nCapas SistemaVentas\SistemaVentas\CapaPresentacionWindows\obj\Debug\CapaPresentacionWindows.fmrPrincipal.resources
+C:\Users\royer\Downloads\CS nCapas SistemaVentas-20240523T191841Z-001\CS nCapas SistemaVentas\SistemaVentas\CapaPresentacionWindows\obj\Debug\CapaPresentacionWindows.Mantenimiento.frmCliente.resources
+C:\Users\royer\Downloads\CS nCapas SistemaVentas-20240523T191841Z-001\CS nCapas SistemaVentas\SistemaVentas\CapaPresentacionWindows\obj\Debug\CapaPresentacionWindows.Properties.Resources.resources
+C:\Users\royer\Downloads\CS nCapas SistemaVentas-20240523T191841Z-001\CS nCapas SistemaVentas\SistemaVentas\CapaPresentacionWindows\obj\Debug\CapaPresentacionWindows.csproj.GenerateResource.cache
+C:\Users\royer\Downloads\CS nCapas SistemaVentas-20240523T191841Z-001\CS nCapas SistemaVentas\SistemaVentas\CapaPresentacionWindows\obj\Debug\CapaPresentacionWindows.csproj.CoreCompileInputs.cache
+C:\Users\royer\Downloads\CS nCapas SistemaVentas-20240523T191841Z-001\CS nCapas SistemaVentas\SistemaVentas\CapaPresentacionWindows\obj\Debug\CapaPres.AC5D4E72.Up2Date
+C:\Users\royer\Downloads\CS nCapas SistemaVentas-20240523T191841Z-001\CS nCapas SistemaVentas\SistemaVentas\CapaPresentacionWindows\obj\Debug\CapaPresentacionWindows.exe
+C:\Users\royer\Downloads\CS nCapas SistemaVentas-20240523T191841Z-001\CS nCapas SistemaVentas\SistemaVentas\CapaPresentacionWindows\obj\Debug\CapaPresentacionWindows.pdb
